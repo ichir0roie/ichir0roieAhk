@@ -11,6 +11,9 @@ Tab::sc029
 sc029::Esc
 Esc::NumLock
 
+AppsKey::RWin
+sc070::RAlt
+
 #Include, muhenkan.ahk
 
 ;use input mode,this is last
