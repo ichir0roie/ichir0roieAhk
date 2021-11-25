@@ -11,8 +11,7 @@ Tab::sc029
 sc029::Esc
 Esc::NumLock
 
-AppsKey::RWin
-sc070::RAlt
+AppsKey::LWin
 
 #Include, muhenkan.ahk
 
