@@ -1,6 +1,7 @@
 #Include, IME.ahk
 
 #IF IME_GET()==0
+; todo this is not need.
 
 1::*
 2::+
