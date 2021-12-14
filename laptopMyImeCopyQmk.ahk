@@ -15,5 +15,5 @@ sc073::sc029
 AppsKey::RWin
 
 #Include, muhenkan.ahk
-; #Include DirectInputCopyQmk.ahk
+#Include DirectInputCopyQmk.ahk
 

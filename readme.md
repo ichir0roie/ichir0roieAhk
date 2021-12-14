@@ -1,3 +1,8 @@
+# memo
+
+http://ahkwiki.net/KeyList#Key_Num
+めっちゃ便利じゃん…
+
 # 自作のAutoHotKeyを設定してみた
 
 ## 背景
@@ -16,4 +21,5 @@
  これを同じ階層に配置した上でMyIme.ahkを実行する。
 
 ### 前提
- AutoHotKeyをインストールしていること
+
+AutoHotKeyをインストールしていること
