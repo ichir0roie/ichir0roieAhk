@@ -7,18 +7,14 @@ sc079::Space
 Space::Shift
 
 sc03A::Tab
-Tab::sc029
-sc029::Esc
-Esc::NumLock
+Tab::Esc
+sc029::NumLock
+Esc::ScrollLock
 
-AppsKey::LWin
+sc073::sc029
+
+AppsKey::RWin
 
 #Include, muhenkan.ahk
-
-;use input mode,this is last
 #Include DirectInput.ahk
-#Include, PrintDate.ahk
-#Include, PrintMaru.ahk
-#Include, FileCreater.ahk
-;#Include, ColemakBreak.ahk
 
