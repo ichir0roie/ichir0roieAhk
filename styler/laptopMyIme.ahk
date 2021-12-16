@@ -15,6 +15,6 @@ sc073::sc029
 
 AppsKey::RWin
 
-#Include, muhenkan.ahk
-#Include DirectInput.ahk
+#Include libs/muhenkan.ahk
+#Include libs/DirectInput.ahk
 
