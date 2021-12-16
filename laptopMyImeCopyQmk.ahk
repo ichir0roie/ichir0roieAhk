@@ -1,4 +1,3 @@
-#Include IME.ahk
 
 ; sc07B::Shift
 ; sc07B::Space
@@ -16,5 +15,5 @@ sc073::sc029
 AppsKey::RWin
 
 #Include, muhenkan.ahk
-#Include DirectInput.ahk
+#Include DirectInputCopyQmk.ahk
 
