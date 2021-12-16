@@ -47,9 +47,6 @@ for key in giDict.keys():
     else:
         ktrDict[key]=giValue
 
-for c,i in enumerate(ktrDict.keys()):
-    print("{} : {}:{}".format(c,i,ktrDict[i]))
-
 # create .AutoHotKey from keyToRoma Dict.
 
 remapLineFormat="{}::Send, {} return"
@@ -57,6 +54,8 @@ remapLineFormat="{}::Send, {} return"
 ahkText=""
 
 ahkText+="SendMode Input\n\n"
+
+import string
 
 for key in ktrDict.keys():
     value= ktrDict[key]
