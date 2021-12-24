@@ -11,7 +11,10 @@ Tab::Esc
 sc029::NumLock
 Esc::ScrollLock
 
-sc073::sc029
+; sc073::sc029
+;sc070::sc029
+sc07B & sc079:: sc029
+
 
 AppsKey::RWin
 
