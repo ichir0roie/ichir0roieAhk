@@ -14,10 +14,10 @@ Esc::ScrollLock
 ; sc073::sc029
 ;sc070::sc029
 sc07B & sc079:: sc029
-
-
+ 
 AppsKey::RWin
 
 #Include libs/muhenkan.ahk
-#Include libs/DirectInput.ahk
+; #Include libs/DirectInput.ahk
+
 
