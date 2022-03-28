@@ -3,7 +3,7 @@
 ; sc07B::Shift
 ; sc07B::Space
 
-Space::Shift
+; Space::Shift
 
 sc03A::Tab
 Tab::Esc
@@ -13,13 +13,18 @@ Esc::ScrollLock
 ; sc073::sc029
 ;sc070::sc029
 sc07B & sc079:: sc029
+sc079 & sc07B:: sc029
 LShift::Space
-sc079::sc029
+; sc079::sc029
 RShift::BackSpace
+
+sc07B::LShift
+sc079::RShift
  
 AppsKey::RWin
 
-#Include libs/muhenkan.ahk
+; #Include libs/muhenkan.ahk
+#Include libs/space.ahk
 ; #Include libs/DirectInput.ahk
 
 
