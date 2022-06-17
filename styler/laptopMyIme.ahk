@@ -1,4 +1,4 @@
-#Include IME.ahk
+; #Include IME.ahk
 
 ; Space::Shift
 
